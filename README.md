@@ -6,7 +6,7 @@
 ✅ CREATE ISSUE WITH LINKS AND NAME IF U WANT ADD YOUR APP (ONLY OPEN SOURCE AND HALAL)
 
 ## OS (Operating System)
-- Uzbek Linux - wait
+- Uzbek Linux - [website](https://huker667.ru/uzbeklinux) / [download](https://www.t.me/uzbeklinux)
 
 ## Browser
 - Eblan Browser (Linux, supermegadeprecated) - [download](https://twgood.serv00.net/dl/?action=download&path=projects&target=EblanBrowser2.zip)
